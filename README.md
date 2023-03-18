@@ -1,5 +1,5 @@
 # 💫 About Me:
-Hey there! 👋<br>My name is Renan meira, and I'm from Brazil! 🇧🇷<br>I'm a front-end developer, studying hard to improve everyday. 👦🏻
+Hey there! 👋<br>My name is Renan Meira, and I'm from Brazil! 🇧🇷<br>I'm a front-end developer, studying hard to improve everyday. 👦🏻
 
 
 ## 🌐 Socials:
