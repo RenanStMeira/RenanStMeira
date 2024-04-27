@@ -1,5 +1,4 @@
-# 💫 About Me:
-Hey there! 👋<br>My name is Renan Meira, and I'm from Brazil! 🇧🇷<br>I'm a Full-Stack developer, studying hard to improve everyday. 👦🏻
+Hello there! 👋 My name is Renan Meira, and I'm from Brazil! 🇧🇷<br>I'm a Full Stack developer passionate about technology, with experience in Node.js and Spring Framework. Always seeking challenges and opportunities to learn and grow professionally. 👨‍💻
 
 
 ## 🌐 Socials:
